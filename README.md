@@ -57,7 +57,9 @@ This project is my attempt to create an interactive web application that visuali
 6. Click "Reset" to clear the current search and start over.
 
 ## Demo
-![Uploading Visualizer.png…]()
+![Visualizer](https://github.com/user-attachments/assets/ba7114af-6f0a-4313-a264-b0f5c760b917)
+
+
 ![visualizer1](https://github.com/user-attachments/assets/6bf1d0f2-7882-4e6b-84f3-7aa6199a2595)
 
 ## Contributing
