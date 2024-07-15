@@ -1,6 +1,6 @@
 # Advanced Linear Skip Search Visualizer
 
-This project is an interactive web application that visualizes the Advanced Linear Skip Search algorithm. It provides a user-friendly interface to generate skip lists, perform searches, and observe the algorithm's behavior step-by-step.
+This project is my attempt to create an interactive web application that visualizes the Advanced Linear Skip Search algorithm. It provides a user-friendly interface to generate skip lists, perform searches, and observe the algorithm's behavior step-by-step. It started as just a basic html file but I ended up playing around with some JavaScript and Tailwind CSS.
 
 ## Features
 
@@ -55,6 +55,10 @@ This project is an interactive web application that visualizes the Advanced Line
 5. Observe the visualization, logs, and explanations as the search progresses.
 
 6. Click "Reset" to clear the current search and start over.
+
+## Demo
+![Uploading Visualizer.png…]()
+![visualizer1](https://github.com/user-attachments/assets/6bf1d0f2-7882-4e6b-84f3-7aa6199a2595)
 
 ## Contributing
 
