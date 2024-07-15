@@ -21,7 +21,7 @@ This project is my attempt to create an interactive web application that visuali
 ### Prerequisites
 
 - A modern web browser (e.g., Chrome, Firefox, Safari)
-- Git (for cloning the repository)
+- Git
 
 ### Installation
 
