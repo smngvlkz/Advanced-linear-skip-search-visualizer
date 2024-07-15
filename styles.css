@@ -1,0 +1,16 @@
+.node {
+    transition: all 0.3s ease;
+}
+.express {
+    background-color: #FECACA;
+}
+.current {
+    background-color: #A7F3D0;
+}
+.found {
+    background-color: #BFDBFE;
+}
+.comparison .node {
+    width: 30px;
+    height: 30px;
+}
